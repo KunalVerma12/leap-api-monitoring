@@ -157,10 +157,8 @@ Example:
 ## 📘 Notes
 - All services run independently.
 - Tracking-client → Collector → MongoDB → Dashboard.
-- Designed to be simple, modular, and fully functional for the assignment.
+- Designed to be simple, modular, and fully functional.
 
 ---
 
-## 🏁 Done!
-You now have a working observability system ready to submit.
 
