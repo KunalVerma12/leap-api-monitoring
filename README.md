@@ -79,7 +79,7 @@ Dashboard runs at: http://localhost:3000
 
 ### **5. Dashboard Screenshot**
 
-![Dashboard](<img width="1918" height="1026" alt="image" src="https://github.com/user-attachments/assets/d559e350-5913-4b5e-bd0d-d300b8afff1a" />)
+![Dashboard](https://github.com/KunalVerma12/leap-api-monitoring/blob/99bc1ebcb799e7b9e48ffca7c125e8d968a9f326/Screenshot%202025-12-07%20194249.png)
 
 ---
 
