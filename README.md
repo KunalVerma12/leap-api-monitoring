@@ -77,6 +77,12 @@ Dashboard runs at: http://localhost:3000
 
 ---
 
+### Dashboard Screenshot
+
+![Dashboard](https://github.com/.../whatever-auto-link.png)
+
+---
+
 ## 📡 Testing (Optional)
 
 ### **Trigger real logs**
