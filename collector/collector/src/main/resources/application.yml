@@ -1,0 +1,15 @@
+spring:
+  autoconfigure:
+    exclude:
+      - org.springframework.boot.mongodb.autoconfigure.MongoAutoConfiguration
+      - org.springframework.boot.data.mongodb.autoconfigure.DataMongoAutoConfiguration
+
+  data:
+    mongodb:
+      logs:
+        uri: mongodb://localhost:27017/logsdb
+      metadata:
+        uri: mongodb://localhost:27017/metadatadb
+
+server:
+  port: 8080
